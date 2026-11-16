@@ -1,4 +1,3 @@
-
 class Human:
 
     def __init__(self, gender, age, first_name, last_name):
